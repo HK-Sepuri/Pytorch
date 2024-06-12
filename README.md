@@ -1,2 +1,2 @@
 # Pytorch
-MY self learning tutorial on pytorch
+My Self Learning Tutorial On PyTorch!
