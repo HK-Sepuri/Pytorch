@@ -1,6 +1,6 @@
 # Pytorch
 My Self Learning Tutorial On PyTorch!
 
-My current intrest are on Computer vision so will focous on that 
+-> Currently  Learning/Focusing On Computer Vision 
 
-(Currently incomplete)
+(soon will add more)
