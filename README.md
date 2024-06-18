@@ -1,12 +1,9 @@
-# Pytorch
-My Self Learning Tutorial On PyTorch!
+# PyTorch: Self-Learning Tutorial
 
--> Currently  Learning/Focusing On Computer Vision 
+This is my self-learning tutorial on PyTorch, currently  focusing on Computer Vision.
 
+**Learning Resources:**
 
-Reference:
-    1) Pytorch     -> https://pytorch.org/docs/stable/index.html
-    2) Fastai      -> https://docs.fast.ai/
-    3) Luke Ditria -> https://www.youtube.com/@LukeDitria
-
-
+* PyTorch Documentation: https://pytorch.org/docs/stable/index.html
+* Fastai: https://docs.fast.ai/
+* Luke Ditria YouTube Channel: https://www.youtube.com/@LukeDitria
