@@ -5,5 +5,5 @@ This is my self-learning tutorial on PyTorch, currently  focusing on Computer Vi
 **Learning Resources:**
 
 * PyTorch Documentation: https://pytorch.org/docs/stable/index.html
-* Fastai: https://docs.fast.ai/
+* Fastai Documentation: https://docs.fast.ai/
 * Luke Ditria YouTube Channel: https://www.youtube.com/@LukeDitria
