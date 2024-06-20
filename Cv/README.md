@@ -4,7 +4,7 @@ This course follows my own learning as i learn i try it out with some datasets f
 
 ### Desription
  * Part 1: An introdution to a simple Cnn in Pytorch
- * Part 2: A Can with custom Dataset and Dataloader
+ * Part 2: A Cnn with custom Dataset and Dataloader
  * Part 3: A Deep Cnn and its impact in accuracy
  * Part 4: How Resnet model helps with Deep Cnn issues 
  * Part 5: Using Transfer learning/fine tuning on pre train models improves accucracy 
