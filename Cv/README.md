@@ -1,6 +1,6 @@
 # CV Self-Learning Tutorial: Get Started with Computer Vision
 
-This course follows my own learning as i learn i try it out with some datasets from kaggle
+This course follows my own learning as i learn and try it out with some datasets on kaggle
 
 ### Desription
  * Part 1: An introdution to a simple Cnn in Pytorch
