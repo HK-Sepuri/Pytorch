@@ -11,3 +11,4 @@ This course follows my own learning as i learn and try it out with some datasets
  * Part 6: Using Pytorch Image Models (timm) for Transfer learning/fine tuning
  * Part 7: Using Fastai library for less boiler code and rapidly productive
  * Part 8: Medical dataset using self created model vs fastai-timm create model
+ * Part 9: If you dont have a model for tranfer learning , you train a model with unlabed datasets and save the model for transfer learning on labed datasets
